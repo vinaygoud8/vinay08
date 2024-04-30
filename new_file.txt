@@ -1,1 +1,2 @@
 This is a new file created by the script.
+This is the second line.
